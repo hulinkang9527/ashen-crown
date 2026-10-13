@@ -1,0 +1,20 @@
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+
+# 依赖 / 构建产物
+node_modules/
+dist/
+build/
+__pycache__/
+.venv/
+venv/
+
+# 日志与临时文件
+*.log
+*.tmp
+.upload_stage/
