@@ -17,6 +17,8 @@
   <img alt="Fiction" src="https://img.shields.io/badge/%E8%99%9A%E6%9E%84%E6%BC%94%E7%A4%BA-fictional%20demo-8A6A10">
 </p>
 
+**在线预览：<https://hulinkang9527.github.io/ashen-crown/>**（GitHub Pages，分支部署）
+
 ---
 
 ## 这是什么
